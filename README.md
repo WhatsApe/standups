@@ -1,6 +1,9 @@
 # standups
 Daily standup notes from team
 
+# Diagrams. Everybody loves Diagrams
+https://sketchboard.me/rz55xe9BADqU#/
+
 # MVP for Whats Ape iOS app
 
 ## First
@@ -22,4 +25,4 @@ Daily standup notes from team
 - Implement more views?
 - Connect via the back-end auth
   - Use the login view to enter phone # and press "Send" to receive code
-- Be able to send messages to other users
+- Be able to send and receive messages to/from other users
